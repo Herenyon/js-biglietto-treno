@@ -12,3 +12,6 @@
 
 <!-- creo un "else {console.log(prezzoBiglietto); alert(prezzoBiglietto);} -->
     <!-- questo else serve per stampare il prezzo del biglietto senza sconti se i due casi precedenti non si presentano, quindi se l'utente ha inserito in etaPasseggero un numero compreso tra 18 e 64 -->
+
+<!-- ATTENZIONE -->
+<!-- ho messo lo sfondo rosso momentaneamente perché sennò mi si bruciano le retine -->
